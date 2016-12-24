@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NY_Times_KR1_2</string>
+    <string name="btn_ok">OK</string>
+    <string name="look_the_map">Смотреть на карте</string>
+    <string name="share">Поделиться</string>
+    <string name="photo">Фото</string>
+</resources>
